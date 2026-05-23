@@ -23,7 +23,7 @@ A mini game console for an 8x8 WS2812B LED matrix. Built on a standalone **ATmeg
 Here is the hardware architecture and wiring for the project:
 
 ### Block Diagram
-<img src="hardware/schema-bloc.png" alt="Block Diagram" style="background-color: white; padding: 10px;">
+![Block Diagram](hardware/schema-bloc.png)
 
 ### Electrical Design
 ![Electrical Design](hardware/design-electric.png)
